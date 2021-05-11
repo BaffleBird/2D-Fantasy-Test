@@ -24,4 +24,9 @@ public class UIControl : MonoBehaviour
 		if (Keyboard.current.rKey.isPressed)
 			SceneManager.LoadScene(0);
 	}
+
+	public void EndGame()
+	{
+		Application.Quit();
+	}
 }
