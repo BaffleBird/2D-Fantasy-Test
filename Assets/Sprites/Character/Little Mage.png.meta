@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: 7808f2db90569094393ba4c7ac0dc1b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7715964416140537769
+    second: Little Mage 0
+  - first:
+      213: 5370827071638428000
+    second: Little Mage 1
+  - first:
+      213: -3436308958018486994
+    second: Little Mage 2
+  - first:
+      213: 6040071341086084014
+    second: Little Mage 3
+  - first:
+      213: -5266516379222131831
+    second: Little Mage 4
+  - first:
+      213: -1169428019550655012
+    second: Little Mage 5
+  - first:
+      213: 6559675276088508974
+    second: Little Mage 6
+  - first:
+      213: 4716758027105111526
+    second: Little Mage 7
+  - first:
+      213: -6970523370752446776
+    second: Little Mage 8
+  - first:
+      213: 6236360416243812048
+    second: Little Mage 9
+  - first:
+      213: 170344885822012144
+    second: Little Mage 10
+  - first:
+      213: -3173240817941890129
+    second: Little Mage 11
+  - first:
+      213: -7429481810861852380
+    second: Little Mage 12
+  - first:
+      213: 859790076075047482
+    second: Little Mage 13
+  - first:
+      213: 4540255558824862696
+    second: Little Mage 14
+  - first:
+      213: -5183689536288091902
+    second: Little Mage 15
+  - first:
+      213: -9149763017613155184
+    second: Little Mage 16
+  - first:
+      213: -4522020265341675142
+    second: Little Mage 17
+  - first:
+      213: -6635971525551718518
+    second: Little Mage 18
+  - first:
+      213: 4733196945234179431
+    second: Little Mage 19
+  - first:
+      213: 2996042735309571541
+    second: Little Mage 20
+  - first:
+      213: 6250507440357769136
+    second: Little Mage 21
+  - first:
+      213: 1346045656998393467
+    second: Little Mage 22
+  - first:
+      213: -6846612709343020780
+    second: Little Mage 23
+  - first:
+      213: -883609198312567455
+    second: Little Mage 24
+  - first:
+      213: 9204090941588737918
+    second: Little Mage 25
+  - first:
+      213: -3195760609677490474
+    second: Little Mage 26
+  - first:
+      213: -8698481405675121857
+    second: Little Mage 27
+  - first:
+      213: -7134200578329835242
+    second: Little Mage 28
+  - first:
+      213: 4170929557510082021
+    second: Little Mage 29
+  - first:
+      213: 2345977983040452630
+    second: Little Mage 30
+  - first:
+      213: -3869026136765813360
+    second: Little Mage 31
+  - first:
+      213: 5026454401001389612
+    second: Little Mage 32
+  - first:
+      213: -1810374488028955188
+    second: Little Mage 33
+  - first:
+      213: 6979248118783728306
+    second: Little Mage 34
+  - first:
+      213: 8440888145371368040
+    second: Little Mage 35
+  - first:
+      213: 5984847698599181251
+    second: Little Mage_0
+  - first:
+      213: -2849650175487044360
+    second: Little Mage_1
+  - first:
+      213: 8050060684780503542
+    second: Little Mage_2
+  - first:
+      213: 4285852845269146588
+    second: Little Mage_3
+  - first:
+      213: -3009951547859817823
+    second: Little Mage_4
+  - first:
+      213: -7281276673476413801
+    second: Little Mage_5
+  - first:
+      213: -2035112792335963178
+    second: Little Mage_6
+  - first:
+      213: 3021375996767585586
+    second: Little Mage_7
+  - first:
+      213: -6331130647318137236
+    second: Little Mage_8
+  - first:
+      213: 6979085824227637970
+    second: Little Mage_9
+  - first:
+      213: -6197561483612570142
+    second: Little Mage_10
+  - first:
+      213: -7298188057514975209
+    second: Little Mage_11
+  - first:
+      213: 3088947637854156187
+    second: Little Mage_12
+  - first:
+      213: -3339379186605463243
+    second: Little Mage_13
+  - first:
+      213: 7954559801823225442
+    second: Little Mage_14
+  - first:
+      213: -2275544711180867891
+    second: Little Mage_15
+  - first:
+      213: 877540033834185381
+    second: Little Mage_16
+  - first:
+      213: 7508789445163344145
+    second: Little Mage_17
+  - first:
+      213: 8894821645803871339
+    second: Little Mage_18
+  - first:
+      213: -6911298731294626157
+    second: Little Mage_19
+  - first:
+      213: -3235923609309669024
+    second: Little Mage_20
+  - first:
+      213: 710407110892588606
+    second: Little Mage_21
+  - first:
+      213: -601984345082907633
+    second: Little Mage_22
+  - first:
+      213: -243719603980190281
+    second: Little Mage_23
+  - first:
+      213: -1883146395406151111
+    second: Little Mage_24
+  - first:
+      213: -1010985594230159248
+    second: Little Mage_25
+  - first:
+      213: -644800192078266914
+    second: Little Mage_26
+  - first:
+      213: -7134259791869194622
+    second: Little Mage_27
+  - first:
+      213: 2214538731180348780
+    second: Little Mage_28
+  - first:
+      213: -1723388888953509529
+    second: Little Mage_29
+  - first:
+      213: -3379341750678251511
+    second: Little Mage_30
+  - first:
+      213: 7680798246406111816
+    second: Little Mage_31
+  - first:
+      213: 999320459363520285
+    second: Little Mage_32
+  - first:
+      213: -2593750245088041514
+    second: Little Mage_33
+  - first:
+      213: 4608958158768430272
+    second: Little Mage_34
+  - first:
+      213: -1896400004377774398
+    second: Little Mage_35
+  - first:
+      213: 6805866936449792353
+    second: Little Mage_36
+  - first:
+      213: -1228314604725830112
+    second: Little Mage_37
+  - first:
+      213: 6262309109476879213
+    second: Little Mage_38
+  - first:
+      213: 1544897996018526216
+    second: Little Mage_39
+  - first:
+      213: 5721277783232113122
+    second: Little Mage_40
+  - first:
+      213: 392221572456253645
+    second: Little Mage_41
+  - first:
+      213: 6157538921014731262
+    second: Little Mage_42
+  - first:
+      213: 4551612609049430821
+    second: Little Mage_43
+  - first:
+      213: -7719352402955551969
+    second: Little Mage_44
+  - first:
+      213: -6470407114783414105
+    second: Little Mage_45
+  - first:
+      213: -4959983778917396206
+    second: Little Mage_46
+  - first:
+      213: 3711847579290401499
+    second: Little Mage_47
+  - first:
+      213: 6815423677444590312
+    second: Little Mage_48
+  - first:
+      213: 4483755642551093146
+    second: Little Mage_49
+  - first:
+      213: 5311351053220629535
+    second: Little Mage_50
+  - first:
+      213: 5545988256105842902
+    second: Little Mage_51
+  - first:
+      213: 3881267108445263670
+    second: Little Mage_52
+  - first:
+      213: 7943200056607753889
+    second: Little Mage_53
+  - first:
+      213: -7080981882147305213
+    second: Little Mage_54
+  - first:
+      213: -3078149546524646058
+    second: Little Mage_55
+  - first:
+      213: -7213825752387776839
+    second: Little Mage_56
+  - first:
+      213: -4539759351496380834
+    second: Little Mage_57
+  - first:
+      213: -7821446869190266463
+    second: Little Mage_58
+  - first:
+      213: -341968101856205670
+    second: Little Mage_59
+  - first:
+      213: -1767655036976620067
+    second: Little Mage_60
+  - first:
+      213: -8023702740892462042
+    second: Little Mage_61
+  - first:
+      213: -2897756506470699796
+    second: Little Mage_62
+  - first:
+      213: 7092463802715248353
+    second: Little Mage_63
+  - first:
+      213: -5141700877420052646
+    second: Little Mage_64
+  - first:
+      213: -5032766606478136014
+    second: Little Mage_65
+  - first:
+      213: 3684875821850438523
+    second: Little Mage_66
+  - first:
+      213: -1428468246298513917
+    second: Little Mage_67
+  - first:
+      213: -4184794858148929655
+    second: Little Mage_68
+  - first:
+      213: -8202474795524545330
+    second: Little Mage_69
+  - first:
+      213: 1459842122431827585
+    second: Little Mage_70
+  - first:
+      213: 1833878168710376296
+    second: Little Mage_71
+  - first:
+      213: 9045227038824404574
+    second: Little Mage_72
+  - first:
+      213: -6034921381269627702
+    second: Little Mage_73
+  - first:
+      213: 7569595376743825629
+    second: Little Mage_74
+  - first:
+      213: -3642614200338522036
+    second: Little Mage_75
+  - first:
+      213: -6740364455004764670
+    second: Little Mage_76
+  - first:
+      213: -6928326892066544282
+    second: Little Mage_77
+  - first:
+      213: -3417251117771598648
+    second: Little Mage_78
+  - first:
+      213: 3210755667920081628
+    second: Little Mage_79
+  - first:
+      213: 5401435978794857274
+    second: Little Mage_80
+  - first:
+      213: -6785365678153754479
+    second: Little Mage_81
+  - first:
+      213: -6972537644519974340
+    second: Little Mage_82
+  - first:
+      213: -8510266980884840129
+    second: Little Mage_83
+  - first:
+      213: -6237290287953429460
+    second: Little Mage_84
+  - first:
+      213: 152404430447284776
+    second: Little Mage_85
+  - first:
+      213: -2417962936324737147
+    second: Little Mage_86
+  - first:
+      213: 4944074564467496948
+    second: Little Mage_87
+  - first:
+      213: -3175315824688883715
+    second: Little Mage_88
+  - first:
+      213: 2359853068673787634
+    second: Little Mage_89
+  - first:
+      213: -3193501049811849943
+    second: Little Mage_90
+  - first:
+      213: 5155901078902152275
+    second: Little Mage_91
+  - first:
+      213: 1228349608059929925
+    second: Little Mage_92
+  - first:
+      213: 1082026972762199991
+    second: Little Mage_93
+  - first:
+      213: -670562541502375515
+    second: Little Mage_94
+  - first:
+      213: 634312914446634659
+    second: Little Mage_95
+  - first:
+      213: -2280319608080857680
+    second: Little Mage_96
+  - first:
+      213: -4112899785587736796
+    second: Little Mage_97
+  - first:
+      213: -1357907906054737444
+    second: Little Mage_98
+  - first:
+      213: 2600647002666973860
+    second: Little Mage_99
+  - first:
+      213: 6361372283164819088
+    second: Little Mage_100
+  - first:
+      213: 1951392654312194747
+    second: Little Mage_101
+  - first:
+      213: 5745606588184683372
+    second: Little Mage_102
+  - first:
+      213: 221198837527920543
+    second: Little Mage_103
+  - first:
+      213: 1221558443119702963
+    second: Little Mage_104
+  - first:
+      213: 7760862109789956651
+    second: Little Mage_105
+  - first:
+      213: -8791983102786680025
+    second: Little Mage_106
+  - first:
+      213: -4759173332977579816
+    second: Little Mage_107
+  - first:
+      213: -1486057508604149273
+    second: Little Mage_108
+  - first:
+      213: -2141782321329236310
+    second: Little Mage_109
+  - first:
+      213: -2362597757976792528
+    second: Little Mage_110
+  - first:
+      213: -2869973657653338666
+    second: Little Mage_111
+  - first:
+      213: -960575131947991339
+    second: Little Mage_112
+  - first:
+      213: 5950446494172889604
+    second: Little Mage_113
+  - first:
+      213: 3832309091349014380
+    second: Little Mage_114
+  - first:
+      213: -6808230931047035791
+    second: Little Mage_115
+  - first:
+      213: 4168141181763878094
+    second: Little Mage_116
+  - first:
+      213: -5621922462038295146
+    second: Little Mage_117
+  - first:
+      213: -6730019097017611821
+    second: Little Mage_118
+  - first:
+      213: -2672978706735555464
+    second: Little Mage_119
+  - first:
+      213: 1349443148371164052
+    second: Little Mage_120
+  - first:
+      213: 4334902416291772376
+    second: Little Mage_121
+  - first:
+      213: 7096047782863088672
+    second: Little Mage_122
+  - first:
+      213: 779462974405723912
+    second: Little Mage_123
+  - first:
+      213: -1974920265229510475
+    second: Little Mage_124
+  - first:
+      213: -6239793473415459545
+    second: Little Mage_125
+  - first:
+      213: 6110755118188436214
+    second: Little Mage_126
+  - first:
+      213: 6996816682086009600
+    second: Little Mage_127
+  - first:
+      213: 7841204517375333227
+    second: Little Mage_128
+  - first:
+      213: -4592043354170668464
+    second: Little Mage_129
+  - first:
+      213: 3689218870457733997
+    second: Little Mage_130
+  - first:
+      213: 1298995166347793086
+    second: Little Mage_131
+  - first:
+      213: -643117280288985879
+    second: Little Mage_132
+  - first:
+      213: -7117161148737778815
+    second: Little Mage_133
+  - first:
+      213: -5929999432181435771
+    second: Little Mage_134
+  - first:
+      213: 301606802503691680
+    second: Little Mage_135
+  - first:
+      213: -729082461353709182
+    second: Little Mage_136
+  - first:
+      213: 502827802514895343
+    second: Little Mage_137
+  - first:
+      213: 6381310737141969264
+    second: Little Mage_138
+  - first:
+      213: -5603895784339749905
+    second: Little Mage_139
+  - first:
+      213: 6544768983828435902
+    second: Little Mage_140
+  - first:
+      213: 2261488098053154052
+    second: Little Mage_141
+  - first:
+      213: 8926764978351824402
+    second: Little Mage_142
+  - first:
+      213: -8718194281707043847
+    second: Little Mage_143
+  - first:
+      213: 5470316134991639108
+    second: Little Mage_144
+  - first:
+      213: -1739967257860230923
+    second: Little Mage_145
+  - first:
+      213: -7904853450070486558
+    second: Little Mage_146
+  - first:
+      213: 1725233851315625699
+    second: Little Mage_147
+  - first:
+      213: -7119647674255078927
+    second: Little Mage_148
+  - first:
+      213: 7562435504113632003
+    second: Little Mage_149
+  - first:
+      213: -3013535379231196019
+    second: Little Mage_150
+  - first:
+      213: 8160499212542199988
+    second: Little Mage_151
+  - first:
+      213: 3118285551430826910
+    second: Little Mage_152
+  - first:
+      213: 97075707747546459
+    second: Little Mage_153
+  - first:
+      213: -4565940934052416659
+    second: Little Mage_154
+  - first:
+      213: -2283680371237196239
+    second: Little Mage_155
+  - first:
+      213: -462569720025950506
+    second: Little Mage_156
+  - first:
+      213: -7754374701850517200
+    second: Little Mage_157
+  - first:
+      213: -4497504615713663270
+    second: Little Mage_158
+  - first:
+      213: 112795271058359360
+    second: Little Mage_159
+  - first:
+      213: 7654670092796068702
+    second: Little Mage_160
+  - first:
+      213: 1072206844322794627
+    second: Little Mage_161
+  - first:
+      213: 4794845522275621758
+    second: Little Mage_162
+  - first:
+      213: 7594463911984570274
+    second: Little Mage_163
+  - first:
+      213: -4081497023171214232
+    second: Little Mage_164
+  - first:
+      213: -6200760603940564595
+    second: Little Mage_165
+  - first:
+      213: -5087196013938437940
+    second: Little Mage_166
+  - first:
+      213: -2814316399092587853
+    second: Little Mage_167
+  - first:
+      213: -4533972867924848035
+    second: Little Mage_168
+  - first:
+      213: 6370654168713233133
+    second: Little Mage_169
+  - first:
+      213: -4053586730678016879
+    second: Little Mage_170
+  - first:
+      213: 8794594864994997840
+    second: Little Mage_171
+  - first:
+      213: -7032906150944711038
+    second: Little Mage_172
+  - first:
+      213: 5984166985117052087
+    second: Little Mage_173
+  - first:
+      213: -1438418832688643421
+    second: Little Mage_174
+  - first:
+      213: -2355185006542929126
+    second: Little Mage_175
+  - first:
+      213: -4586712180327391635
+    second: Little Mage_176
+  - first:
+      213: 4872352402149340632
+    second: Little Mage_177
+  - first:
+      213: -7349202985735237899
+    second: Little Mage_178
+  - first:
+      213: -5405770621362439438
+    second: Little Mage_179
+  - first:
+      213: -7960336328217729631
+    second: Little Mage_180
+  - first:
+      213: 6085362193015756013
+    second: Little Mage_181
+  - first:
+      213: 8281565545655859064
+    second: Little Mage_182
+  - first:
+      213: 1199202502349851649
+    second: Little Mage_183
+  - first:
+      213: 625559586782269223
+    second: Little Mage_184
+  - first:
+      213: -6706040357315552996
+    second: Little Mage_185
+  - first:
+      213: -2303261558339009978
+    second: Little Mage_186
+  - first:
+      213: 7938164230590820411
+    second: Little Mage_187
+  - first:
+      213: -5815119655075923738
+    second: Little Mage_188
+  - first:
+      213: -6146823396540744872
+    second: Little Mage_189
+  - first:
+      213: -8135924209404665603
+    second: Little Mage_190
+  - first:
+      213: -7643843162746969747
+    second: Little Mage_191
+  - first:
+      213: 4268945830816125299
+    second: Little Mage_192
+  - first:
+      213: 3411229097445528103
+    second: Little Mage_193
+  - first:
+      213: -6373861128391975312
+    second: Little Mage_194
+  - first:
+      213: 3505840331612821846
+    second: Little Mage_195
+  - first:
+      213: 3846915331199648516
+    second: Little Mage_196
+  - first:
+      213: 1842581370389910112
+    second: Little Mage_197
+  - first:
+      213: 3356017598706613540
+    second: Little Mage_198
+  - first:
+      213: -7131652832372511627
+    second: Little Mage_199
+  - first:
+      213: -8328649173703526330
+    second: Little Mage_200
+  - first:
+      213: -3982117516532259322
+    second: Little Mage_201
+  - first:
+      213: 7380754638828319141
+    second: Little Mage_202
+  - first:
+      213: 2968838814721739326
+    second: Little Mage_203
+  - first:
+      213: 408055657182691017
+    second: Little Mage_204
+  - first:
+      213: -3391873156279382368
+    second: Little Mage_205
+  - first:
+      213: -8554387067722695068
+    second: Little Mage_206
+  - first:
+      213: 7541638244948380590
+    second: Little Mage_207
+  - first:
+      213: -7132370658268137474
+    second: Little Mage_208
+  - first:
+      213: -8610617354078907074
+    second: Little Mage_209
+  - first:
+      213: -3922204487998258970
+    second: Little Mage_210
+  - first:
+      213: 8383865213777115368
+    second: Little Mage_211
+  - first:
+      213: -5555616375963503005
+    second: Little Mage_212
+  - first:
+      213: -945843629078124512
+    second: Little Mage_213
+  - first:
+      213: -6302718948199936758
+    second: Little Mage_214
+  - first:
+      213: 430692727020965611
+    second: Little Mage_215
+  - first:
+      213: 435464406652622198
+    second: Little Mage_216
+  - first:
+      213: 606947684094523972
+    second: Little Mage_217
+  - first:
+      213: -6182090834878169616
+    second: Little Mage_218
+  - first:
+      213: 3783762242709558869
+    second: Little Mage_219
+  - first:
+      213: 8989003317709484168
+    second: Little Mage_220
+  - first:
+      213: 7928342835727255256
+    second: Little Mage_221
+  - first:
+      213: -417935662580180241
+    second: Little Mage_222
+  - first:
+      213: -698265415840505445
+    second: Little Mage_223
+  - first:
+      213: 1695221396083657739
+    second: Little Mage_224
+  - first:
+      213: 46174869764065667
+    second: Little Mage_225
+  - first:
+      213: -6744870840104213068
+    second: Little Mage_226
+  - first:
+      213: -8465961456201207756
+    second: Little Mage_227
+  - first:
+      213: -7647332059810486862
+    second: Little Mage_228
+  - first:
+      213: -5515975983430196679
+    second: Little Mage_229
+  - first:
+      213: -7227946568541009119
+    second: Little Mage_230
+  - first:
+      213: -9076937425576503459
+    second: Little Mage_231
+  - first:
+      213: -7691253215146417607
+    second: Little Mage_232
+  - first:
+      213: -721379356333474424
+    second: Little Mage_233
+  - first:
+      213: 1025337012502633038
+    second: Little Mage_234
+  - first:
+      213: 1604958073605821159
+    second: Little Mage_235
+  - first:
+      213: -7919426269139428894
+    second: Little Mage_236
+  - first:
+      213: 1667345247172037373
+    second: Little Mage_237
+  - first:
+      213: 5809938750995180513
+    second: Little Mage_238
+  - first:
+      213: 3598510557271324509
+    second: Little Mage_239
+  - first:
+      213: 204375360196268602
+    second: Little Mage_240
+  - first:
+      213: -7122274730379886955
+    second: Little Mage_241
+  - first:
+      213: 9026022511061119325
+    second: Little Mage_242
+  - first:
+      213: -285412266105209957
+    second: Little Mage_243
+  - first:
+      213: -6477988232056922312
+    second: Little Mage_244
+  - first:
+      213: 2595869672747371815
+    second: Little Mage_245
+  - first:
+      213: -502045527238985205
+    second: Little Mage_246
+  - first:
+      213: -3469684893797633647
+    second: Little Mage_247
+  - first:
+      213: 3070570099879673592
+    second: Little Mage_248
+  - first:
+      213: -5073884088655037314
+    second: Little Mage_249
+  - first:
+      213: -573256472027012878
+    second: Little Mage_250
+  - first:
+      213: -484242712260451652
+    second: Little Mage_251
+  - first:
+      213: 3325936754983165754
+    second: Little Mage_252
+  - first:
+      213: -3301630802539364272
+    second: Little Mage_253
+  - first:
+      213: 5159187779121321337
+    second: Little Mage_254
+  - first:
+      213: -1588336751324213754
+    second: Little Mage_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Mage 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75093649e336be490800000000000000
+      internalID: -7715964416140537769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695f0b04c2098a40800000000000000
+      internalID: 5370827071638428000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db0d28537cf40d0800000000000000
+      internalID: -3436308958018486994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab047f02e4a2d350800000000000000
+      internalID: 6040071341086084014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b30bc914399e6b0800000000000000
+      internalID: -5266516379222131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6b40896b55cfe0800000000000000
+      internalID: -1169428019550655012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220b21b8e5a80b50800000000000000
+      internalID: 6559675276088508974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed82196f6a457140800000000000000
+      internalID: 4716758027105111526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceedbbfce9b34f90800000000000000
+      internalID: -6970523370752446776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d60585c1c00c8650800000000000000
+      internalID: 6236360416243812048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fab9b865cf2d5200800000000000000
+      internalID: 170344885822012144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabbdc3e94266f3d0800000000000000
+      internalID: -3173240817941890129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4297a56f7ad25e890800000000000000
+      internalID: -7429481810861852380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afbd1d4869eeb00800000000000000
+      internalID: 859790076075047482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3af3d106a320f30800000000000000
+      internalID: 4540255558824862696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20193a3c4d5df08b0800000000000000
+      internalID: -5183689536288091902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09469245303850180800000000000000
+      internalID: -9149763017613155184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a791131078e8e31c0800000000000000
+      internalID: -4522020265341675142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff1ef6e0b48e3a0800000000000000
+      internalID: -6635971525551718518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b5ac4b81bfa140800000000000000
+      internalID: 4733196945234179431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5440a7ef4149920800000000000000
+      internalID: 2996042735309571541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff57086634eb650800000000000000
+      internalID: 6250507440357769136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b8d4b46d1ea210800000000000000
+      internalID: 1346045656998393467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4193fe80402fbf0a0800000000000000
+      internalID: -6846612709343020780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dcf4e9d1accb3f0800000000000000
+      internalID: -883609198312567455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f89cd22ff7bbf70800000000000000
+      internalID: 9204090941588737918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ccf848a066a3d0800000000000000
+      internalID: -3195760609677490474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d4618f39c84780800000000000000
+      internalID: -8698481405675121857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61983446f5a3efc90800000000000000
+      internalID: -7134200578329835242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edc092855e12e930800000000000000
+      internalID: 4170929557510082021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618730acb869e8020800000000000000
+      internalID: 2345977983040452630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d2f534a357e4ac0800000000000000
+      internalID: -3869026136765813360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef26b75ad81c540800000000000000
+      internalID: 5026454401001389612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdba92bef140e6e0800000000000000
+      internalID: -1810374488028955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bada67bf254bd060800000000000000
+      internalID: 6979248118783728306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Mage 35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8aa5eb0f042570800000000000000
+      internalID: 8440888145371368040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

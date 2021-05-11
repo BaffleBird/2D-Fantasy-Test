@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Splash_1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -386708035202915666, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  - {fileID: 5668807701716904054, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  - {fileID: -1162094764950500814, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  - {fileID: 3402302516946378091, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  - {fileID: -353855563750959910, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  - {fileID: 2560467213988798553, guid: ef1cc83a1b7ca274fb0b39d2850d335c, type: 3}
+  m_MinSpeed: 16
+  m_MaxSpeed: 16
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
